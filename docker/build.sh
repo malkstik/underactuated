@@ -1,0 +1,1 @@
+docker build -t underactuated /home/malkstik/Documents/Repos/underactuated/docker
